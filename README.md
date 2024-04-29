@@ -1,3 +1,5 @@
+# Develop By : RISHI KEERTHI K
+# Reg No : 212222043007
 # Ex. No:1b 			Study of Client Server Chat Applications
 
 ## Aim: 
